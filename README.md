@@ -9,3 +9,4 @@ let a = undefined;
 let b = null;
 let c = b + '4 2';
 ```
+- ศิรวิชญ์ ประสิทธิเวชานนท์ (เอม)
